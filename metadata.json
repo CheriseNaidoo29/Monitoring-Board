@@ -1,0 +1,6 @@
+{
+  "name": "BMW Group IT Hub DevOps Matrix",
+  "description": "Connected DevOps Matrix & Identity Gateway for BMW Group IT Hub",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
